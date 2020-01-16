@@ -19,6 +19,8 @@
     echo '<br>';
     var_dump($abd);
     echo $a =8;
+    $you = 'Abror';
+    var_dump($you);
 /*
 and -- &&
 or -- ||
